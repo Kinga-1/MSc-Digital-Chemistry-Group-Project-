@@ -11,6 +11,38 @@
                 {
                 "synonym": "Acetyl salicylate",
                 "source": "ChEMBL"
+                }, 
+                {
+                "synonym": "Acetylsalicylic acid (WHO-IP)",
+                "source": "ChEMBL"
+                },
+                {
+                "synonym": "Acetylsalicylicum acidum",
+                "source": "ChEMBL"
+                }, 
+                {
+                "synonym": "Acidum acetylsalicylicum",
+                "source": "ChEMBL"
+                },
+                {
+                "synonym": "Acidium acetylsaliclicum (WHO-IP)",
+                "source": "ChEMBL"
+                }, 
+                {
+                "synonym": "BAY1019036",
+                "source": "ChEMBL"
+                },
+                {
+                "synonym": "Benzoic acid, 2-(acetyloxy)-",
+                "source": "ChEMBL"
+                },
+                {
+                "synonym": "NSC-27223",
+                "source": "ChEMBL"
+                },
+                {
+                "synonym": "NSC-406186",
+                "source": "ChEMBL"
                 }
             ]
             }
