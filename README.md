@@ -1,3 +1,3 @@
 # MSc-Digital-Chemistry-Group-Project-
-Group Work 
+Unfinished Group Work - Workshop 4
 Project intro --> intro, data, people, license 
